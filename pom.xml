@@ -8,7 +8,7 @@
   <artifactId>groovydoc-maven-plugin</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Groovydoc-Maven-Plugin</name>
-  <description>maven plugin to allow for inclusion of Gmavenplus generated Groovydocs in
+  <description>Maven plugin to allow for inclusion of Gmavenplus generated Groovydocs in
     project-reports.html</description>
   <packaging>maven-plugin</packaging>
   <dependencies>

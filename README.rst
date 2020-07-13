@@ -33,6 +33,5 @@ To use :code:`groovydoc-maven-plugin` in a project:
 Credits
 -------
 
-This plugin is based on the report mojo tutorial by the apache maven project
-
-.. _Maven-Mojo: https://maven.apache.org/guides/plugin/guide-java-report-plugin-development.html
+This plugin is based on the `Apache Maven report mojo tutorial
+<https://maven.apache.org/guides/plugin/guide-java-report-plugin-development.html>`_.
